@@ -10,7 +10,6 @@ Real-time Linux system monitoring tool with beautiful CLI interface.
 - Temperature monitoring
 - Automatic dependency installation
 - Cross-distribution support
-
 *Installation
 git clone https://github.com/k9iqinee/System_monitoring.git
 cd system-monitor-git
